@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 ![Visitor Count](https://komarev.com/ghpvc/?username=chirayu-sanghvi&label=Profile%20views&color=000000&style=flat)
 
 <!-- Detailed GitHub Stats Card -->
-![Chirayu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chirayu-sanghvi&theme=darcula)
+![Chirayu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chirayu-sanghvi&theme=react)
 
 <!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chirayu-sanghvi&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chirayu-sanghvi&theme=react)
 
 <!-- Most Used Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirayu-sanghvi&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirayu-sanghvi&theme=react&layout=compact)
 
 <!-- GitHub Activity Graph --> 
 [![Chirayu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chirayu-sanghvi&theme=react-dark&hide_border=true)](https://github.com/chirayu-sanghvi/github-readme-activity-graph) 
