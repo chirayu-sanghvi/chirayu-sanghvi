@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://komarev.com/ghpvc/?username=chirayu-sanghvi&label=Profile%20views&color=000000&style=flat)
 
 <!-- Detailed GitHub Stats Card -->
-![Chirayu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chirayu-sanghvi)
+![Chirayu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chirayu-sanghvi&theme=radical)
 
 <!-- GitHub Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chirayu-sanghvi&theme=dark)
