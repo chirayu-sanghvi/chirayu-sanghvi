@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Dynamic Typing SVG for welcome message -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&size=30&duration=5000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+profile%2C+I'm+Avinash!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&size=30&duration=5000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+profile%2C+I'm+Chirayu!)](https://git.io/typing-svg)
 
 <!-- Visitor Count -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=chirayu-sanghvi&label=Profile%20views&color=000000&style=flat)
