@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <!-- GitHub Activity Graph --> 
 [![Chirayu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chirayu-sanghvi&theme=react-dark&hide_border=true)](https://github.com/chirayu-sanghvi/github-readme-activity-graph) 
 
+![Chirayu's GitHub activity graph darcula stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chirayu-sanghvi&theme=darcula)
 ![Chirayu's GitHub activity graph darcula](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chirayu-sanghvi&theme=darcula&utcOffset=8)
 
 <!-- Footer Image or Animation -->
