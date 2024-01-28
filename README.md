@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 <!-- Holopin Badges (if you have any) -->
 <!-- [![My Holopin Badges](https://holopin.me/chirayu-sanghvi)](https://holopin.io/@chirayu-sanghvi) -->
 
-<!-- Personal Touch - Add any additional information or sections that represent you -->
+<!-- Personal Touch - Add any additional information or sections that represent you. -->
