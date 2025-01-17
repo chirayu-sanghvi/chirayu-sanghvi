@@ -28,7 +28,7 @@ Here are some ideas to get you started:
    - **CGPA:** 3.889 / 4.0  
    - 🏆 Winner of **CSE Demo Day 2024**: 1st place among 45 teams for my independent project, **SAARTHI**.
 - 💼 3+ years of experience in **Software Development**, specializing in full-stack web applications, cloud solutions, and DevOps.
-- 🌱 Passionate about **Software Engineering**, **System Design** and it's integrationg with **AI**, to create innovative, real-world solutions.
+- 🌱 Passionate about **Software Engineering**, **System Design** and it's integration with **AI**, to create innovative, real-world solutions.
 - 📄 Presented research at the **SBP-BRIMS 2024 Conference at Carnegie Mellon University**.
 
 ## 💻 Technical Skills:
