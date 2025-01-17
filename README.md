@@ -15,40 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Chirayu! 👋
-
-## 👨‍💻 About Me:
-- 🎓 **Master of Science in Computer Science and Engineering**, State University of New York at Buffalo (2023 – 2024)  
-   - **CGPA:** 3.889 / 4.0  
-   - 🏆 Winner of **CSE Demo Day 2024**: 1st place among 45 teams for my independent project, **SAARTHI**.
-- 💼 3+ years of experience in **Software Development**, specializing in full-stack web applications, cloud solutions, and DevOps.
-- 🌱 Passionate about **AI**, **System Design**, and **Data Engineering**, with a focus on creating innovative, real-world solutions.
-- 📄 Presented research at the **SBP-BRIMS 2024 Conference at Carnegie Mellon University**.
-
-## 💻 Technical Skills:
-- **Languages**: Java, JavaScript, Python, Node.js, React, Spring Boot
-- **Databases**: PostgreSQL, MongoDB, MySQL, MS SQL
-- **DevOps & Cloud**: AWS, Terraform, Jenkins, Docker, CI/CD, Azure
-- **Tools**: Git, Tableau, Prometheus, Jira, Splunk, Grafana
-- **Concepts**: Agile Development, System Design, Debugging, SaaS
-
-## 🛠️ Projects:
-### [SAARTHI](https://github.com/chirayu-sanghvi/SAARTHI) 🚗  
-Built an AI-powered platform to detect automobile damage with **89% precision**, estimate repair costs, and provide roadside assistance via a chatbot for an improved user experience.  
-**Achievements**: Presented at SBP-BRIMS 2024, CSE Demo Day 2024 Winner.  
-[Explore the Project](https://sites.google.com/view/saarthi-home/home)
-
-### [Credit Guard](https://github.com/chirayu-sanghvi/Credit-Guard-AI) 💳  
-Designed an end-to-end platform to identify potential credit card defaulters using data-intensive computing and secure REST APIs.
-
-## 📊 GitHub Insights:
-- 🔥 **Total Commits**: 700+
-- 🌟 **Key Contributions**: Full-stack development, DevOps automation, and AI-powered solutions.
-
-## 📫 Let's Connect:
-- [LinkedIn](https://linkedin.com/in/chirayu-sanghvi)  
-- [GitHub](https://github.com/chirayu-sanghvi)  
-- Email: chirayusanghvi94@gmail.com
 
 
 
