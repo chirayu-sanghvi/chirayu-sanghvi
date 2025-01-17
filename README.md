@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 <!-- Dynamic Typing SVG for welcome message -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&size=30&duration=5000&color=%23F7F7F7&background=%23000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+profile%2C+I'm+Chirayu!)](https://git.io/typing-svg)
 
-# Hi there, I'm Chirayu! 👋
+<!-- # Hi there, I'm Chirayu! 👋 -->
 
 ## 👨‍💻 About Me:
 - 🎓 **Master of Science in Computer Science and Engineering**, State University of New York at Buffalo (2023 – 2024)  
    - **CGPA:** 3.889 / 4.0  
    - 🏆 Winner of **CSE Demo Day 2024**: 1st place among 45 teams for my independent project, **SAARTHI**.
 - 💼 3+ years of experience in **Software Development**, specializing in full-stack web applications, cloud solutions, and DevOps.
-- 🌱 Passionate about **AI**, **System Design**, and **Data Engineering**, with a focus on creating innovative, real-world solutions.
+- 🌱 Passionate about **Software Engineering**, **System Design** and it's integrationg with **AI**, to create innovative, real-world solutions.
 - 📄 Presented research at the **SBP-BRIMS 2024 Conference at Carnegie Mellon University**.
 
 ## 💻 Technical Skills:
@@ -47,7 +47,7 @@ Built an AI-powered platform to detect automobile damage with **89% precision**,
 ### [Credit Guard](https://github.com/chirayu-sanghvi/Credit-Guard-AI) 💳  
 Designed an end-to-end platform to identify potential credit card defaulters using data-intensive computing and secure REST APIs.
 
-## 📊 GitHub Insights:
+<!-- ## 📊 GitHub Insights:
 - 🔥 **Total Commits**: 700+
 - 🌟 **Key Contributions**: Full-stack development, DevOps automation, and AI-powered solutions.
 
@@ -55,7 +55,7 @@ Designed an end-to-end platform to identify potential credit card defaulters usi
 - [LinkedIn](https://linkedin.com/in/chirayu-sanghvi)  
 - [GitHub](https://github.com/chirayu-sanghvi)  
 - Email: chirayusanghvi94@gmail.com
-
+-->
 
 <!-- Visitor Count -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=chirayu-sanghvi&label=Profile%20views&color=000000&style=flat)
