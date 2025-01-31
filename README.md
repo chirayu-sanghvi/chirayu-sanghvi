@@ -67,7 +67,7 @@ Designed an end-to-end platform to identify potential credit card defaulters usi
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chirayu-sanghvi&theme=dark)
 
 <!-- Most Used Languages Card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirayu-sanghvi&theme=dark&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chirayu-sanghvi&theme=dark&layout=compact) -->
 
 <!-- GitHub Activity Graph --> 
 [![Chirayu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chirayu-sanghvi&theme=react-dark&hide_border=true)](https://github.com/chirayu-sanghvi/github-readme-activity-graph) 
